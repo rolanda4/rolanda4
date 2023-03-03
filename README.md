@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning full stack web development at Pre-Mest
+- 🌱 I’m currently learning full stack web development at ALX
 - 🤔 I’m looking for help with React
 - 💬 Ask me about HTML, CSS
 - 📫 How to reach me: azeemrolanda@gmail.com
