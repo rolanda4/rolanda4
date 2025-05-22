@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m a fellow of Blossom Academy Data Analytics Fellowship
-- 🤔 I’m looking for help with Power BI, SQL and Python for data analytics
-- 💬 Ask me about HTML, CSS, Excel
+- 🌱 I’m a Certified Data Analyst
+- 🤔 I’m looking for help with Python for data analytics
+- 💬 Ask me about Excel, Power BI, SQL, HTML, CSS
 - 📫 How to reach me: azeemrolanda@gmail.com
